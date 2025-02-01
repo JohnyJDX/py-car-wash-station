@@ -52,16 +52,3 @@ class CarWashStation:
             1
         )
         self.count_of_ratings += 1
-
-
-
-
-
-
-
-
-
-
-
-
-
